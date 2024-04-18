@@ -2,6 +2,8 @@
 
 Transformers.js 是一个基于 JavaScript 的库，用于在 web 浏览器和 Node.js 中训练和部署机器学习模型。虽然搜索结果中没有直接提到名为 "Transformers.js" 的库，但有关于 TensorFlow.js 和 Hugging Face Transformers 的信息，这两者都是在 JavaScript 环境中处理机器学习任务的流行工具。以下是基于这些资源的一个快速入门指南，结合了 TensorFlow.js 和 Hugging Face Transformers 的使用。
 
+- 参考文档：https://huggingface.co/docs/transformers.js/api/pipelines#module_pipelines.TextGenerationPipeline
+
 ### TensorFlow.js 快速入门
 
 TensorFlow.js 是一个用于在 web 浏览器和 Node.js 中训练和部署机器学习模型的 JavaScript 库。以下是如何开始使用 TensorFlow.js 的步骤：
